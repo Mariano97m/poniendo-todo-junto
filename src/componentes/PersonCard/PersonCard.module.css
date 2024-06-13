@@ -1,0 +1,11 @@
+.estilo {
+    border: 2px solid black;
+    text-align: center;
+    width: 500px;
+    margin: 30px;
+    padding: 20px;
+    margin-left: 30%;
+    border-radius: 10px;
+    box-sizing: border-box ;
+
+}
